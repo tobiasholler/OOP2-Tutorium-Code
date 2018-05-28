@@ -1,0 +1,6 @@
+package objektorientiertebeispiele.tiere;
+
+public enum Hunderasse {
+	SCHAEFERHUND, LABRADOR, GOLDEN_RETRIVER, PUDEL, ROTTWEILER, DACKEL,
+	COLLIE, CHIHUAHUA, BULLDOGGE, YORKSHIRE_TERRIER, MOPS
+}
