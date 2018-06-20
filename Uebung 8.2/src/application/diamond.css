@@ -1,0 +1,15 @@
+/* Diamond Style Pagination */
+.pagination{
+ -fx-base:black;
+}
+.pagination .toggle-button {
+ -fx-shape:"m74.63,72.21494l14.50002,-14.49994l14.49998,14.49994l-14.49998,14.50002l-14.50002,-14.50002z";
+ -fx-background-radius:6.0px;
+}
+.pagination .button{
+ -fx-padding: 8.0 10.0 8.0 10.0px;
+ -fx-background-radius:0.0px;
+}
+.pagination .label {
+-fx-text-fill:white;
+}
